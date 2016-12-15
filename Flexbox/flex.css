@@ -1,34 +1,20 @@
-/*.container {
-	display: flex;
-	flex-direction: row;
-	flex-wrap: wrap;
-	justify-content: space-around;
-}
 
-.item {
-	flex-grow: 1;
-	flex-basis: 100px;
-}*/
 
-.container {
-	display: flex;
-	flex-direction: row;
-	flex-wrap: wrap;
-	justify-content: center;
-	align-items: flex-end;
-	align-content: space-around;
-}
+/**************** exercise 2 *****************/
 
-.item {
-	flex-grow: 1;
-	flex: 1;
-}
+/**************** exercise 2 *****************/
 
-.item-1 {
-	align-self: flex-end;
-}
+
+/**************** exercise 3 *****************/
+
+
 
 /*
 RESOURCES
 https://css-tricks.com/snippets/css/a-guide-to-flexbox/
+http://www.flexboxdefense.com/
+http://flexboxfroggy.com/
+http://caniuse.com/#search=flexbox
+https://scotch.io/tutorials/a-visual-guide-to-css3-flexbox-properties
+https://davidwalsh.name/flexbox-layouts
 */
