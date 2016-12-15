@@ -1,0 +1,21 @@
+body {
+	font-size: 1.35em;
+	padding-left: 5%;
+	padding-right: 5%;
+  background-color: #AEFFCF;
+  font-family: 'Reem Kufi', sans-serif;
+}
+.container {
+	background: #fff;
+  border-radius: .5em;
+  margin: 10vmin;
+  padding: 1vmin;
+  height: 40vh;
+}
+.item {
+	color: #fff;
+	padding: 1vh;
+	margin: 10px;
+  background-color: #5A83D3;
+  border-radius: .5em;
+}
